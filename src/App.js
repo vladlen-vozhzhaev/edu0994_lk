@@ -1,9 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {BrowserRouter, NavLink, Route} from "react-router-dom";
 import {Menu} from "./components/Menu";
 import {Profile} from "./components/Profile";
+import {Users} from "./components/Users";
 
 function App() {
   return (
@@ -14,9 +14,10 @@ function App() {
             <Menu/>
           </div>
           <div className="col-9">
-            <Route path="/profile" render={()=>{return <Profile/>}}/>
-            <Route path="/settings" render={()=>{return <h1>Это Настройки</h1>}}/>
-            <Route path="/users" render={()=>{return <h1>Это список пользователей</h1>}}/>
+            <Route exact path="/profile" render={()=>{return <Profile/>}}/>
+            <Route path="/user" render={()=>{return <Profile/>}}/>
+            <Route path="/settings" render={()=>{return <h1>Настройки</h1>}}/>
+            <Route path="/users" render={()=>{return <Users/>}}/>
           </div>
         </div>
       </BrowserRouter>

@@ -19,11 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36c6dab0-3b45-438c-9785-ffe176c22c3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Menu.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile.jsx" afterDir="false" />
+    <list default="true" id="36c6dab0-3b45-438c-9785-ffe176c22c3b" name="Default Changelist" comment="15.10.2020">
+      <change afterPath="$PROJECT_DIR$/src/components/Settings.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +62,18 @@
       <workItem from="1602599949028" duration="43000" />
       <workItem from="1602600035741" duration="6236000" />
       <workItem from="1602667979905" duration="22000" />
-      <workItem from="1602771023382" duration="4102000" />
+      <workItem from="1602771023382" duration="6063000" />
+      <workItem from="1602840815455" duration="38000" />
+      <workItem from="1602861476452" duration="4827000" />
     </task>
+    <task id="LOCAL-00001" summary="15.10.2020">
+      <created>1602777453910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602777453910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,11 +89,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="15.10.2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="15.10.2020" />
   </component>
   <component name="WindowStateProjectService">
     <state x="316" y="168" key="SettingsEditor" timestamp="1602601016580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="316" y="168" key="SettingsEditor/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1602601016580" />
+    <state x="404" y="256" key="Vcs.Push.Dialog.v2" timestamp="1602777467196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="404" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.900@0.0.1920.1040" timestamp="1602777467196" />
   </component>
 </project>
